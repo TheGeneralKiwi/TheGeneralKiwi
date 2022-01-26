@@ -1,6 +1,5 @@
-# Welcome! (still working on this)
-
-<!-- I'm currently working on a website for selling art.
+# Welcome, I'm TheGeneralKiwi🎖️🥝
+ I'm currently working on a website for selling art.
 - I'm currently learning SwiftUI, and recently started exploring Javascript as well.
 - I"m looking forward to collaborate on smaller projects (as someone new to GitHub)
 - I'm looking for help with anything honestly, pointers and corrections are more than welcome on any public project.
@@ -11,9 +10,9 @@ You can find me on:
 - Sololearn
 
 You can contact me:
-- Discord
+- Discord: @
 
-Fun Fact: I can move my ears-->
+Fun Fact: I can move my ears
 
 <!--
 **TheGeneralKiwi/TheGeneralKiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
