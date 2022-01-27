@@ -24,8 +24,6 @@ You can find me on:
 - Medium (link)
 - Stack Overflow (link)
 
-You can contact me:
-- Discord
 
 Fun Fact: I can move my ears-->
 
