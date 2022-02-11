@@ -7,22 +7,20 @@
 - I'm looking for help with anything honestly, pointers and corrections are more than welcome on any public project.
 - Ask me about HTML, CSS, Airtable, etc. (Writing & Art included)
 
-### Currently Working on:
-- All things Swift, from fundamentals to simple Xcode apps (as a beginner)
-- Advanced Front-End Web Development (Flexbox, Grid, Responsive Layout, etc.)
-- As for an actual project, a website to sell my art 
-- Writing, with the intention of publishing a novel by the end of this year
-
 ### Currently Learning:
 - Swift/SwiftUI
+- Advanced Web Development
 - Javascript
 - Limba română
 
+### Currently Working On:
+- Website to Sell My Art 
+- Productivity App
+- A Fantasy Novel
+- A Game(?)
+
 You can find me on:
-- Codecademy Forum (link)
-- Sololearn (link)
-- Medium (link)
-- Stack Overflow (link)
+- Medium (Link)
 
 
 Fun Fact: I can move my ears-->
