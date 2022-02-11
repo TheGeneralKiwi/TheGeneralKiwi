@@ -1,7 +1,7 @@
 # Welcome, I'm TheGeneralKiwi! 
 **Note: Still working on this to make it look nice✨**
 
-<!--![Image](https://cdn.slidesharecdn.com/ss_thumbnails/todaysart051964-121001000613-phpapp02-thumbnail-4.jpg?cb=1349050877) Adding an image syntax-->
+
  
 <!-- I"m looking forward to collaborate on smaller projects (as someone new to GitHub)
 - I'm looking for help with anything honestly, pointers and corrections are more than welcome on any public project.
