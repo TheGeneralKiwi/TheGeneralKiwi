@@ -1,6 +1,9 @@
 # Welcome, I'm TheGeneralKiwi! 
 **Note: Still working on this to make it look nice✨**
 
+[![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGeneralKiwi&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGeneralKiwi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <!-- I"m looking forward to collaborate on smaller projects (as someone new to GitHub)
