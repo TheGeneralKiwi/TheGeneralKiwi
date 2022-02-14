@@ -5,6 +5,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGeneralKiwi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visits Badge](https://badges.pufler.dev/visits/TheGeneralKiwi/TheGeneralKiwi)
+
+
+![Repos Badge](https://badges.pufler.dev/repos/TheGeneralKiwi)
+
+
+![Updated Badge](https://badges.pufler.dev/updated/TheGeneralKiwi/TheGeneralKiwi)
+
+
  
 <!-- I"m looking forward to collaborate on smaller projects (as someone new to GitHub)
 - I'm looking for help with anything honestly, pointers and corrections are more than welcome on any public project.
