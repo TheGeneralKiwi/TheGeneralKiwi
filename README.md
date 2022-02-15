@@ -6,12 +6,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGeneralKiwi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visits Badge](https://badges.pufler.dev/visits/TheGeneralKiwi/TheGeneralKiwi)
-
-
 ![Repos Badge](https://badges.pufler.dev/repos/TheGeneralKiwi)
-
-
 ![Updated Badge](https://badges.pufler.dev/updated/TheGeneralKiwi/TheGeneralKiwi)
+
+
 
 
  
