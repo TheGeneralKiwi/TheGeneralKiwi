@@ -7,13 +7,28 @@
 ![Updated Badge](https://badges.pufler.dev/updated/TheGeneralKiwi/TheGeneralKiwi)
 <!--![Profile Views](https://komarev.com/ghpvc/?username=TheGeneralKiwi&color=red)-->
 
+<!--Tools:
+
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)-->
+
 [![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGeneralKiwi&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGeneralKiwi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheGeneralKiwi&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!--You can find me on:
+
+
+<!--
+
+https://github.com/Ileriayo/markdown-badges
+^ for skill badges (sketch, adobe, etc.)
+
+https://shields.io/category/dependencies 
+^ badge generator
+
+
+You can find me on:
 - [Medium](https://medium.com/@jaspeach)
 - LinkedIn (Link)
 -->
