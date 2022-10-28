@@ -1,11 +1,11 @@
 # Welcome, I'm TheGeneralKiwi! 
 **Note: Still working on this to make it look nice✨**
 
-
+<!--
 ![Visits Badge](https://badges.pufler.dev/visits/TheGeneralKiwi/TheGeneralKiwi)
 ![Repos Badge](https://badges.pufler.dev/repos/TheGeneralKiwi)
 ![Updated Badge](https://badges.pufler.dev/updated/TheGeneralKiwi/TheGeneralKiwi)
-<!--![Profile Views](https://komarev.com/ghpvc/?username=TheGeneralKiwi&color=red)-->
+![Profile Views](https://komarev.com/ghpvc/?username=TheGeneralKiwi&color=red)-->
 
 <!--Tools:
 
