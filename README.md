@@ -11,7 +11,7 @@
 
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)-->
 
-[![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGeneralKiwi&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGeneralKiwi&show_icons=true&theme=onedark)]<!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
