@@ -13,12 +13,12 @@
 
 <!--[![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGeneralKiwi&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGeneralKiwi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGeneralKiwi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGeneralKiwi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheGeneralKiwi&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
