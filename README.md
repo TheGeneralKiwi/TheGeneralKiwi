@@ -1,4 +1,4 @@
-# Welcome, I'm TheGeneralKiwi! 
+# Welcome mortals, feast thine eyes upon such toady majesty 👑
 **Note: Still working on this to make it look nice✨**
 
 
