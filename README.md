@@ -4,10 +4,10 @@
 
 ![Visits Badge](https://badges.pufler.dev/visits/TheGeneralKiwi/TheGeneralKiwi)
 ![Repos Badge](https://badges.pufler.dev/repos/TheGeneralKiwi)
-![Updated Badge](https://badges.pufler.dev/updated/TheGeneralKiwi/TheGeneralKiwi)
 ![Profile Views](https://komarev.com/ghpvc/?username=TheGeneralKiwi&color=red)
+<!--![Updated Badge](https://badges.pufler.dev/updated/TheGeneralKiwi/TheGeneralKiwi)-->
 
-## Tools
+## Skills
 
 ### Design Tools
 - Sketch
